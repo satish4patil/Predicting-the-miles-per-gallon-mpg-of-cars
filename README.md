@@ -1,4 +1,5 @@
-Also checked for multicollinearity using the variance inflation factor (VIF)
+This project focuses on predicting the miles per gallon (mpg) of cars based on various factors. 
+Checked for multicollinearity using the variance inflation factor (VIF) method.
 ### The following regression algorithms were implemented and evaluated:
 * Linear Regression
 * Ridge Regression with Grid Search
